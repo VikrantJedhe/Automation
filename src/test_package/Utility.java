@@ -17,7 +17,7 @@ public class Utility {
 			Options.addArguments("--remote-allow-origins=*");
 			
 			System.setProperty("webdriver.chrome.driver","F:\\Selenium\\All Drivers\\chromedriver.exe");
-			WebDriver driver = new ChromeDriver(Options); // To Open Browser
+			 WebDriver driver = new ChromeDriver(Options); // To Open Browser
 			
 			Thread.sleep(2000);
 			driver.manage().window().maximize();
