@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/poi-examples-4.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/poi-excelant-4.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/poi-scratchpad-4.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/apache/All/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/jar_files/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/selenium-server-4.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/commons-compress-1.26.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/docker-java-3.3.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/docker-java-api-3.3.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/docker-java-core-3.3.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/docker-java-transport-3.3.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/docker-java-transport-httpclient5-3.3.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/webdrivermanager-5.7.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Soft Stuff/Browser launch jars/WebDriverManager/webdrivermanager-5.7.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-17T12:01:07 IST" name="TestSuite" finished-at="2024-04-17T12:02:40 IST" duration-ms="92178">
+    <groups>
+    </groups>
+    <test started-at="2024-04-17T12:01:07 IST" name="Testxpath1" finished-at="2024-04-17T12:02:40 IST" duration-ms="92178">
+      <class name="test_package.V05xpath">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:01:07 IST" name="setup" finished-at="2024-04-17T12:01:18 IST" duration-ms="11031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openWebpage()[pri:1, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:01:18 IST" name="openWebpage" finished-at="2024-04-17T12:01:23 IST" duration-ms="4615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebpage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:01:23 IST" name="TearDown" finished-at="2024-04-17T12:01:29 IST" duration-ms="5466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:01:29 IST" name="setup" finished-at="2024-04-17T12:01:32 IST" duration-ms="3731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logIn()[pri:2, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:01:32 IST" name="logIn" finished-at="2024-04-17T12:01:57 IST" duration-ms="25022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:01:57 IST" name="TearDown" finished-at="2024-04-17T12:02:03 IST" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:02:03 IST" name="setup" finished-at="2024-04-17T12:02:06 IST" duration-ms="3768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forgetPassword()[pri:3, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:02:06 IST" name="forgetPassword" finished-at="2024-04-17T12:02:34 IST" duration-ms="27724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPassword -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:test_package.V05xpath@4a883b15]" started-at="2024-04-17T12:02:34 IST" name="TearDown" finished-at="2024-04-17T12:02:40 IST" duration-ms="5353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- test_package.V05xpath -->
+    </test> <!-- Testxpath1 -->
+  </suite> <!-- TestSuite -->
+</testng-results>
